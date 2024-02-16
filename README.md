@@ -1,7 +1,5 @@
 # 💎 Swap Program - Solana
 
-### [<img src="https://raw.githubusercontent.com/solana-developers/pirate-bootcamp/main/docs/images/slides-icon.svg" alt="slides" width="20" align="center"/> Presentation Slides](https://docs.google.com/presentation/d/1E15mIvnMg9qvR9RPJnIC9Y4cod-QjBJpjPZ4rQpgEIE/edit?usp=sharing)
-
 ### DEXs
 
 Decentralized Exchanges (DEXs) make use of what's called a "Liquidity Pool". This is simply a pool of assets (usually tokens) that are provided by investors (called "Liquidity Providers") and can be exchanged on the platform in a permissionless, peer-to-peer manner.
